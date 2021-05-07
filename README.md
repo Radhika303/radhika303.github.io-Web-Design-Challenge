@@ -6,7 +6,7 @@ https://radhika303.github.io/radhika303.github.io-Web-Design-Challenge/index.htm
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
-![Images/landingResize.png](Images/landingResize.png)
+![images/landingResize.png](images/landingResize.png)
 
 ### Before You Begin
 
